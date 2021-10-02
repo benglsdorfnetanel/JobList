@@ -1,0 +1,7 @@
+.addButton{
+    height: 15px;
+    width: 15px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    background-color: green;
+}
